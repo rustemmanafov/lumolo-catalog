@@ -9,9 +9,20 @@
     "path": "blocked.json",
     "sha256": "f07221cfd9c91a34030101674e73e320af8d79f5044d4d3669a731ccd0134468"
   },
-  "catalogs": [],
-  "contentVersion": "edd7c9ceecfd8a76",
-  "generatedAt": "2026-11-20T16:24:32Z",
+  "catalogs": [
+    {
+      "bytes": 31270,
+      "channelCount": 3,
+      "country": "AZ",
+      "expiresAt": "2026-12-18T10:33:27Z",
+      "language": "az",
+      "path": "catalog/az-AZ.609e8b6e.json",
+      "sha256": "609e8b6ecd6d129149dc290b3157cb9f026a5a8a8bc275526eeb254421ae54ac",
+      "videoCount": 100
+    }
+  ],
+  "contentVersion": "74e7c5806c2cf25b",
+  "generatedAt": "2026-11-23T10:33:27Z",
   "minClientSchemaVersion": 1,
   "schemaVersion": 1
 }
