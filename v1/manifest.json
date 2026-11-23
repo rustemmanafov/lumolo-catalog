@@ -1,0 +1,17 @@
+{
+  "attribution": {
+    "privacyUrl": "https://policies.google.com/privacy",
+    "source": "YouTube",
+    "termsUrl": "https://www.youtube.com/t/terms"
+  },
+  "blocked": {
+    "bytes": 59,
+    "path": "blocked.json",
+    "sha256": "f07221cfd9c91a34030101674e73e320af8d79f5044d4d3669a731ccd0134468"
+  },
+  "catalogs": [],
+  "contentVersion": "edd7c9ceecfd8a76",
+  "generatedAt": "2026-11-20T16:24:32Z",
+  "minClientSchemaVersion": 1,
+  "schemaVersion": 1
+}
