@@ -8,7 +8,7 @@
 
 ## 1. Summary
 Lumolo is a video app for children that shows videos from a list of YouTube channels
-reviewed by people. **We do not collect, store, sell or share personal information.**
+checked by Lumolo before they are added. **We do not collect, store, sell or share personal information.**
 There are no accounts, no sign-in, no advertising of our own, no analytics and no tracking.
 
 ## 2. Information we collect
