@@ -1,5 +1,11 @@
 {
   "channels": [],
   "schemaVersion": 1,
-  "videos": []
+  "videos": [
+    {
+      "blockedAt": "2026-11-23",
+      "id": "J1EmFaMyNaA",
+      "reason": "Channel self-promotion (own marker set) — no product promos for kids."
+    }
+  ]
 }
