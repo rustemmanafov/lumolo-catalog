@@ -1,11 +1,12 @@
 # Lumolo — Help & support
 
-Lumolo shows videos only from YouTube channels that a person has reviewed. There is no
+Lumolo shows videos only from YouTube channels on Lumolo's checked list. There is no
 search and no account. Everything below is done in the **grown-ups area** (the small lock on
 the home screen → answer the question → enter your PIN).
 
 ## Contact
-Email: [[support email]] — we answer within [[2 business days]].
+Email: support@samofy.co.uk — we answer within 2 business days.
+Lumolo is made by Samofy Limited, London, United Kingdom.
 To report a video or a channel, include the video title and the time where the problem is.
 We block confirmed problems for every family as quickly as we can.
 

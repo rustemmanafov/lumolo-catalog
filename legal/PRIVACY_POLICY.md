@@ -1,10 +1,7 @@
-# Lumolo Privacy Policy — DRAFT
+# Lumolo Privacy Policy
 
-> ⚠ Draft for legal review. Not legal advice. Replace every `[[…]]` placeholder.
-> Must be published at a public URL, linked in App Store Connect and inside the app.
-
-**Effective date:** [[date]] · **Operator:** [[legal entity name, address, country]] ·
-**Contact:** [[privacy email]]
+**Effective date:** 23 November 2026 · **Operator:** Samofy Limited, 182-184 High Street North, East Ham, London E6 2JA, United Kingdom ·
+**Contact:** support@samofy.co.uk
 
 ## 1. Summary
 Lumolo is a video app for children that shows videos from a list of YouTube channels
@@ -30,9 +27,9 @@ this device**, or by deleting the app.
 1. **Our video list** — the app downloads public files from
    `raw.githubusercontent.com` (operated by GitHub, Inc.). The request contains no personal
    information. Like any web server, the host receives the device's IP address as part of
-   the connection; we do not log, store or use it. [[GitHub may log visitor IP
-   addresses for security purposes under its own privacy statement — have counsel confirm
-   wording.]]
+   the connection; we do not log, store or use it. GitHub may log visitor IP
+   addresses for security purposes under its own privacy statement
+   (https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
 2. **YouTube** — thumbnails are loaded from YouTube (`i.ytimg.com`), and videos are played
    with **YouTube's embedded player** in privacy-enhanced mode (`youtube-nocookie.com`).
 
@@ -59,9 +56,14 @@ within 30 days on our servers and within 25 days on devices.
 
 ## 8. Your rights
 Because we hold no personal data about you or your child, there is nothing for us to
-access, correct or delete. Contact us at [[privacy email]] with any question.
-[[Lawyer: add jurisdiction-specific sections — EU/UK GDPR representative, Azerbaijan Law
-on Personal Data, Türkiye KVKK, Russia 152-FZ, California/CCPA statement.]]
+access, correct or delete. Contact us at support@samofy.co.uk with any question.
+
+Lumolo is operated from the United Kingdom by Samofy Limited. The same practice applies
+wherever you live: we do not collect, sell or share personal information, so there is no
+personal data for us to process under the UK GDPR, the EU GDPR or other data-protection
+laws (including the CCPA in California). If you have a concern, you can contact us, the UK
+Information Commissioner's Office (https://ico.org.uk) or your local data-protection
+authority.
 
 ## 9. Changes
 We will update this policy here and ask a parent to accept material changes in the app

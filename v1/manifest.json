@@ -546,8 +546,8 @@
       "country": "ID",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "id",
-      "path": "catalog/id-ID.db94bd1f.json",
-      "sha256": "db94bd1f3a5f3fd5f3d8bd6dd45ee7e59ab9c72412abedab296edf7b3d9358b2",
+      "path": "catalog/id-ID.10092946.json",
+      "sha256": "10092946c59ee6198b0af9ed41849dfe856e6bf218acc525e49161f520af83f7",
       "videoCount": 595
     },
     {
@@ -941,8 +941,8 @@
       "videoCount": 128
     }
   ],
-  "contentVersion": "cab42584df6b6c81",
-  "generatedAt": "2026-11-23T17:46:51Z",
+  "contentVersion": "f9a7cb03d33a0ca8",
+  "generatedAt": "2026-11-24T06:00:13Z",
   "minClientSchemaVersion": 1,
   "schemaVersion": 1
 }
