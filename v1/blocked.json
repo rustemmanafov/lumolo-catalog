@@ -3,9 +3,29 @@
   "schemaVersion": 1,
   "videos": [
     {
+      "blockedAt": "2026-11-25",
+      "id": "IaUkkfbwbHM",
+      "reason": "Khan Academy platform guide presentation (points children to an external platform)."
+    },
+    {
       "blockedAt": "2026-11-23",
       "id": "J1EmFaMyNaA",
       "reason": "Channel self-promotion (own marker set) — no product promos for kids."
+    },
+    {
+      "blockedAt": "2026-11-25",
+      "id": "mMmSNagdpD4",
+      "reason": "Word problem about poker tournament winnings (gambling)."
+    },
+    {
+      "blockedAt": "2026-11-25",
+      "id": "rDUi2sJr7Fc",
+      "reason": "Khan Academy brand promo, not a lesson."
+    },
+    {
+      "blockedAt": "2026-11-25",
+      "id": "yLa3GQhYV2w",
+      "reason": "Platform programming demo built on a third-party game character; points to an external platform."
     }
   ]
 }

@@ -5,9 +5,9 @@
     "termsUrl": "https://www.youtube.com/t/terms"
   },
   "blocked": {
-    "bytes": 224,
+    "bytes": 866,
     "path": "blocked.json",
-    "sha256": "23456f44c62628fc3cf662b84cc2e99764e0346363408c4c4ef74b59583f3c77"
+    "sha256": "0cf669db9587e2277ff4dd7dd56454f86265379dfea6bc7798adbc03e2877eed"
   },
   "catalogs": [
     {
@@ -41,23 +41,23 @@
       "videoCount": 202
     },
     {
-      "bytes": 126430,
+      "bytes": 126441,
       "channelCount": 7,
       "country": "AE",
       "expiresAt": "2026-12-18T17:46:51Z",
       "language": "ar",
-      "path": "catalog/ar-AE.b940ca5d.json",
-      "sha256": "b940ca5dba5a10ce6cb05ecc321f92b15aaf1066f48309f999bf5085ec5493d8",
+      "path": "catalog/ar-AE.028441b8.json",
+      "sha256": "028441b8a96e791532dabea6d73e3c97454c59c3da3b4598ab21998036a8b2d1",
       "videoCount": 361
     },
     {
-      "bytes": 143700,
+      "bytes": 143682,
       "channelCount": 7,
       "country": "EG",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "ar",
-      "path": "catalog/ar-EG.6b1d301a.json",
-      "sha256": "6b1d301a8a9f224f1d61c302730605bc74952b40456c1341307c2a702cf33035",
+      "path": "catalog/ar-EG.014242b6.json",
+      "sha256": "014242b607ea5bb4295d6d01645f4ac4133ed0a0aa99fb83a0fc20ac49bdf152",
       "videoCount": 405
     },
     {
@@ -71,23 +71,23 @@
       "videoCount": 221
     },
     {
-      "bytes": 43206,
+      "bytes": 43197,
       "channelCount": 2,
       "country": "PS",
       "expiresAt": "2026-12-18T17:46:51Z",
       "language": "ar",
-      "path": "catalog/ar-PS.e2838f8b.json",
-      "sha256": "e2838f8b0addaae8b3af61a571b7cc43c77eb123bfb9786a675bae77630a22d4",
+      "path": "catalog/ar-PS.caa97009.json",
+      "sha256": "caa97009995dda73099c6500837cb87835cccf622eab75aad4db8713e5c95439",
       "videoCount": 120
     },
     {
-      "bytes": 149695,
+      "bytes": 149677,
       "channelCount": 9,
       "country": "SA",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "ar",
-      "path": "catalog/ar-SA.c181ca38.json",
-      "sha256": "c181ca386dbb8613daa7dccf621811608e7341b542616cc1ba884f6ebd77687c",
+      "path": "catalog/ar-SA.1741b1f7.json",
+      "sha256": "1741b1f7e1b513204775f34ebf7253c5a4e3a2553201b753830a15f99c3693e8",
       "videoCount": 415
     },
     {
@@ -101,24 +101,24 @@
       "videoCount": 118
     },
     {
-      "bytes": 80733,
+      "bytes": 80474,
       "channelCount": 5,
       "country": "BG",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "bg",
-      "path": "catalog/bg-BG.5f492328.json",
-      "sha256": "5f492328086b5cb455ab0239a37ceecdacf05793d78af703f70587a08eaba98e",
+      "path": "catalog/bg-BG.f9a49d10.json",
+      "sha256": "f9a49d10d70c6bce0ab019206bd3cf4c87b71261ea7dc983c8eb5148f2c175a3",
       "videoCount": 245
     },
     {
-      "bytes": 114969,
+      "bytes": 115296,
       "channelCount": 8,
       "country": "BD",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "bn",
-      "path": "catalog/bn-BD.6e98b069.json",
-      "sha256": "6e98b069d9dd71ad46660a97457b3ce01e53e8f1cf26292f7bd01c5c7f0a8f7e",
-      "videoCount": 317
+      "path": "catalog/bn-BD.f113befb.json",
+      "sha256": "f113befb4e962f66c2c5400c5d011c0f1f70958dfe06575d8277ee7768674222",
+      "videoCount": 318
     },
     {
       "bytes": 18447,
@@ -131,13 +131,13 @@
       "videoCount": 59
     },
     {
-      "bytes": 19368,
+      "bytes": 19337,
       "channelCount": 1,
       "country": "ES",
       "expiresAt": "2026-12-19T18:00:10Z",
       "language": "ca",
-      "path": "catalog/ca-ES.caff15a4.json",
-      "sha256": "caff15a404da7a8ba1e840b59cc586351408aa47bf8956dfb546b1377f8ebe21",
+      "path": "catalog/ca-ES.ac1ffaa2.json",
+      "sha256": "ac1ffaa20a784cc400cf9f1d2fb223503e795c0c727b5c6e807574f159980589",
       "videoCount": 60
     },
     {
@@ -201,13 +201,13 @@
       "videoCount": 60
     },
     {
-      "bytes": 182565,
+      "bytes": 182556,
       "channelCount": 10,
       "country": "GR",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "el",
-      "path": "catalog/el-GR.adbdfe13.json",
-      "sha256": "adbdfe1338056a0836e4368c3f5ef118a3461b831450273a9675e0d7a56fe962",
+      "path": "catalog/el-GR.506bcd13.json",
+      "sha256": "506bcd131f070b2a7e8862bf61684446a1606a0a03d72c5ff97f850d065dc61a",
       "videoCount": 493
     },
     {
@@ -281,14 +281,14 @@
       "videoCount": 105
     },
     {
-      "bytes": 840902,
-      "channelCount": 51,
+      "bytes": 844282,
+      "channelCount": 52,
       "country": "US",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "en",
-      "path": "catalog/en-US.1e680938.json",
-      "sha256": "1e680938fd5abdb38c7f973757c044a7012b87ede7020274594ae4a8fdcc4fcc",
-      "videoCount": 2653
+      "path": "catalog/en-US.8643664b.json",
+      "sha256": "8643664b44f537ee54dd7c817e0bff809744f7b644a95f2947257931a55dc69d",
+      "videoCount": 2663
     },
     {
       "bytes": 17879,
@@ -311,14 +311,14 @@
       "videoCount": 288
     },
     {
-      "bytes": 153779,
+      "bytes": 154137,
       "channelCount": 11,
       "country": "AR",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "es",
-      "path": "catalog/es-AR.e87e6223.json",
-      "sha256": "e87e622319b8bddc9c56e63e670a7febb538e83aae43573df9bb6648ef01cbb1",
-      "videoCount": 482
+      "path": "catalog/es-AR.59144791.json",
+      "sha256": "59144791748e8008edcdd856dc4869668fb790960f48a9027ca63c8bf119e590",
+      "videoCount": 483
     },
     {
       "bytes": 7728,
@@ -336,18 +336,18 @@
       "country": "CO",
       "expiresAt": "2026-12-18T17:46:51Z",
       "language": "es",
-      "path": "catalog/es-CO.d3a3bfaf.json",
-      "sha256": "d3a3bfaf19a4beebe464d0ecb8570e5fd8d41e89d58ad67dbbadf8b01231875b",
+      "path": "catalog/es-CO.49e9a217.json",
+      "sha256": "49e9a2175748551d8b7cccf02758b403f88571b45a2717f0eebfa5acda139030",
       "videoCount": 249
     },
     {
-      "bytes": 117457,
+      "bytes": 117429,
       "channelCount": 6,
       "country": "ES",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "es",
-      "path": "catalog/es-ES.29959659.json",
-      "sha256": "29959659daa1848a626fa990dff8c800f829fd17f9877d5c1acf5755f9d7bcdf",
+      "path": "catalog/es-ES.f9448240.json",
+      "sha256": "f94482408500fb6b43a0dbf7d2bbb754acadd25fd5974dbd741c0ad24fc4805f",
       "videoCount": 360
     },
     {
@@ -451,54 +451,54 @@
       "videoCount": 259
     },
     {
-      "bytes": 39390,
+      "bytes": 39408,
       "channelCount": 2,
       "country": "CA",
       "expiresAt": "2026-12-18T17:46:51Z",
       "language": "fr",
-      "path": "catalog/fr-CA.8095e59f.json",
-      "sha256": "8095e59f11a2c1426b1c6667041e1e032cc82a1f8e903f904055115081e5ded3",
+      "path": "catalog/fr-CA.02b9e649.json",
+      "sha256": "02b9e6490206daf70edfd4370030a2410b901eb68f6569d3b8a9e42a2ff147e0",
       "videoCount": 120
     },
     {
-      "bytes": 25916,
+      "bytes": 25903,
       "channelCount": 2,
       "country": "CI",
       "expiresAt": "2026-12-18T17:46:51Z",
       "language": "fr",
-      "path": "catalog/fr-CI.bcacae67.json",
-      "sha256": "bcacae67d67b35fd8e65f46ea7be68120e8c056e81cb8b767d34c0f328e67464",
+      "path": "catalog/fr-CI.37d2b25e.json",
+      "sha256": "37d2b25eb34521adba19925029d15145e56f64836e617d4bced7d4c3e474bbdd",
       "videoCount": 78
     },
     {
-      "bytes": 32302,
+      "bytes": 32603,
       "channelCount": 2,
       "country": "CM",
       "expiresAt": "2026-12-18T17:46:51Z",
       "language": "fr",
-      "path": "catalog/fr-CM.bb463df8.json",
-      "sha256": "bb463df894dd6595f62ad870b67f86a11f17708d33cf117e25ead98c59478f60",
-      "videoCount": 108
+      "path": "catalog/fr-CM.c7b81bf3.json",
+      "sha256": "c7b81bf327ee15f1943e7a9d35b5ba2743c046b8650fe4a733a7d72e6f992360",
+      "videoCount": 109
     },
     {
-      "bytes": 181174,
+      "bytes": 181185,
       "channelCount": 11,
       "country": "FR",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "fr",
-      "path": "catalog/fr-FR.e3d329d3.json",
-      "sha256": "e3d329d382c34568b69834f7a9706ea0095b466da6822d65492b37f8ae36a13b",
+      "path": "catalog/fr-FR.484c858e.json",
+      "sha256": "484c858eaef5f5fc7d8f2802bc095bd4083430b37e3aa414d27b010a7768d894",
       "videoCount": 554
     },
     {
-      "bytes": 78240,
+      "bytes": 78933,
       "channelCount": 5,
       "country": "SN",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "fr",
-      "path": "catalog/fr-SN.3478d769.json",
-      "sha256": "3478d769746274fcddbf47670164f19b3a33445aea4d96f1745b78b791b5a545",
-      "videoCount": 244
+      "path": "catalog/fr-SN.593d5886.json",
+      "sha256": "593d58861e5c0b23ca445b404fb53c26aa56748118d284d4b8424028c192f4ed",
+      "videoCount": 246
     },
     {
       "bytes": 4318,
@@ -521,14 +521,14 @@
       "videoCount": 354
     },
     {
-      "bytes": 101733,
+      "bytes": 102163,
       "channelCount": 6,
       "country": "IN",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "hi",
-      "path": "catalog/hi-IN.89022c42.json",
-      "sha256": "89022c42e8094d149e0ed06597c04c3a33be32cd1bd5d2b372968b4dcb6ec89c",
-      "videoCount": 269
+      "path": "catalog/hi-IN.ed7eac25.json",
+      "sha256": "ed7eac25161083879fc0ad44bc2886ec3fe552a074dc8012e02f0f7cff3d3f54",
+      "videoCount": 270
     },
     {
       "bytes": 71975,
@@ -536,8 +536,8 @@
       "country": "HR",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "hr",
-      "path": "catalog/hr-HR.c3abfe55.json",
-      "sha256": "c3abfe55b194b2569c8bb59feef69d9e90bbbfa45688eb6a03fa04ddb5fddc26",
+      "path": "catalog/hr-HR.984197cd.json",
+      "sha256": "984197cde1b07f9aeeaf269f1e4583fbd0b86f0fffc563f068c0f52b32543401",
       "videoCount": 240
     },
     {
@@ -561,34 +561,34 @@
       "videoCount": 60
     },
     {
-      "bytes": 197356,
-      "channelCount": 11,
+      "bytes": 200716,
+      "channelCount": 12,
       "country": "ID",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "id",
-      "path": "catalog/id-ID.007f99ec.json",
-      "sha256": "007f99ecc371c8593cbed3be2d78f7cb54ef2572726e50322277662bdd49b9ed",
-      "videoCount": 595
+      "path": "catalog/id-ID.2168e67f.json",
+      "sha256": "2168e67f09b83254829fa2ea4437e17251ff8a422a1dbf6e802783158a84873b",
+      "videoCount": 605
     },
     {
-      "bytes": 234682,
-      "channelCount": 14,
+      "bytes": 244534,
+      "channelCount": 15,
       "country": "IT",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "it",
-      "path": "catalog/it-IT.2a3cc57d.json",
-      "sha256": "2a3cc57dba576d53ce62ea89aa151e2f37663d8ffd45697b92fbcd52d1ca6963",
-      "videoCount": 724
+      "path": "catalog/it-IT.4a50a908.json",
+      "sha256": "4a50a90849f4c31716acc0accc4daf1f7219ce4bc3a8d507466f31d907fdd404",
+      "videoCount": 756
     },
     {
-      "bytes": 199441,
+      "bytes": 199844,
       "channelCount": 9,
       "country": "JP",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "ja",
-      "path": "catalog/ja-JP.46f6eee4.json",
-      "sha256": "46f6eee4c4653aec0d09d8ccbb8e7724a37d6f4581ab654bc7a628429cb0de17",
-      "videoCount": 516
+      "path": "catalog/ja-JP.597e8e8b.json",
+      "sha256": "597e8e8bbbf76ac45f49f0c77c1f2ac55fb9bb8490c275632b248783f665fe90",
+      "videoCount": 517
     },
     {
       "bytes": 46747,
@@ -621,14 +621,14 @@
       "videoCount": 98
     },
     {
-      "bytes": 149883,
-      "channelCount": 8,
+      "bytes": 158934,
+      "channelCount": 9,
       "country": "KR",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "ko",
-      "path": "catalog/ko-KR.c0d1d83e.json",
-      "sha256": "c0d1d83e5811825951cad6682ac8f7bf4913b5eafde23d87200d7fc3cc3348b2",
-      "videoCount": 425
+      "path": "catalog/ko-KR.43552383.json",
+      "sha256": "43552383b822057ee986d0763d130a193623a9f881599f275f8b02ade870874b",
+      "videoCount": 454
     },
     {
       "bytes": 6143,
@@ -676,19 +676,19 @@
       "country": "IN",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "ml",
-      "path": "catalog/ml-IN.341c896c.json",
-      "sha256": "341c896c9f10c8a5f276c84a636861092927ec4e6c2f723ad32f566420f4a1f7",
+      "path": "catalog/ml-IN.fb1dab8c.json",
+      "sha256": "fb1dab8c5521eba362c6e503565d35a372b8c475880abfe1ceca5b58d9eafda5",
       "videoCount": 64
     },
     {
-      "bytes": 29388,
-      "channelCount": 2,
+      "bytes": 48217,
+      "channelCount": 3,
       "country": "MN",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "mn",
-      "path": "catalog/mn-MN.63561872.json",
-      "sha256": "63561872564c48303d73d97c5576b4e5e7ad7cf508042bf81bb3f14db1955501",
-      "videoCount": 89
+      "path": "catalog/mn-MN.80a6b8a1.json",
+      "sha256": "80a6b8a10b8865a29ef47b1de077a9f65cb9465a16feb6cc8f0e3e417e9ce46a",
+      "videoCount": 149
     },
     {
       "bytes": 72878,
@@ -701,14 +701,14 @@
       "videoCount": 207
     },
     {
-      "bytes": 31056,
+      "bytes": 31406,
       "channelCount": 2,
       "country": null,
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "ms",
-      "path": "catalog/ms.1020745d.json",
-      "sha256": "1020745d84d93870cba989733a84143de2c4c83043e76599bc4f616fe16427ad",
-      "videoCount": 96
+      "path": "catalog/ms.f16f1e34.json",
+      "sha256": "f16f1e34e9d5bee982f4e1d518ac5d791ac67a6270ccc70a83b9651fd98326e6",
+      "videoCount": 97
     },
     {
       "bytes": 56605,
@@ -716,8 +716,8 @@
       "country": "MY",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "ms",
-      "path": "catalog/ms-MY.519e326a.json",
-      "sha256": "519e326a8600fca22b4a3bbbd74a7e76728c5aa06a6b9e81abd36945517688fd",
+      "path": "catalog/ms-MY.fb063dc5.json",
+      "sha256": "fb063dc589b91cac4c7232be9b7da0e6cfbebe5d435553bf450851e70ad9570f",
       "videoCount": 176
     },
     {
@@ -771,23 +771,23 @@
       "videoCount": 751
     },
     {
-      "bytes": 234649,
+      "bytes": 234984,
       "channelCount": 14,
       "country": "PL",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "pl",
-      "path": "catalog/pl-PL.32443343.json",
-      "sha256": "32443343db7ca76ec4f0fdee4fec31774fcedcc43616279ea7b72039e2ee12f2",
-      "videoCount": 747
+      "path": "catalog/pl-PL.0239c365.json",
+      "sha256": "0239c3650900c0d5b6f48260c5683221df2c0b1d1ade8bca5c6046145ac35828",
+      "videoCount": 748
     },
     {
-      "bytes": 40061,
+      "bytes": 40064,
       "channelCount": 2,
       "country": null,
       "expiresAt": "2026-12-19T18:00:10Z",
       "language": "pt",
-      "path": "catalog/pt.872fdf5e.json",
-      "sha256": "872fdf5e7795c2049934314a7872678385209e6c7fd22ae10c08593b1926be4b",
+      "path": "catalog/pt.886720e9.json",
+      "sha256": "886720e90c140e5172ad7165251cfa3caf100f15a7ae99e572ff9e845330a1b6",
       "videoCount": 120
     },
     {
@@ -801,14 +801,14 @@
       "videoCount": 114
     },
     {
-      "bytes": 331175,
+      "bytes": 331492,
       "channelCount": 20,
       "country": "BR",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "pt",
-      "path": "catalog/pt-BR.9bbba8e1.json",
-      "sha256": "9bbba8e11a95388ff77543464ef1b4d1fac72b1d68bddee18b9654d511854101",
-      "videoCount": 1017
+      "path": "catalog/pt-BR.ce8f0deb.json",
+      "sha256": "ce8f0debf2f959778aae0f04ece27a26994917cad0242c755c977e97a1f72ead",
+      "videoCount": 1018
     },
     {
       "bytes": 19473,
@@ -821,14 +821,14 @@
       "videoCount": 60
     },
     {
-      "bytes": 100104,
-      "channelCount": 7,
+      "bytes": 119418,
+      "channelCount": 8,
       "country": "PT",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "pt",
-      "path": "catalog/pt-PT.8fa0986e.json",
-      "sha256": "8fa0986ec290366b241917e6c0d8ab05543a04d2b8c611853190c51d03bfce5f",
-      "videoCount": 320
+      "path": "catalog/pt-PT.d5f9a138.json",
+      "sha256": "d5f9a1381083d4c6e1ad497bdc75a917236f9588ec2c29aee716cb381f8b346c",
+      "videoCount": 380
     },
     {
       "bytes": 58384,
@@ -841,14 +841,14 @@
       "videoCount": 180
     },
     {
-      "bytes": 120442,
-      "channelCount": 7,
+      "bytes": 138186,
+      "channelCount": 8,
       "country": "RO",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "ro",
-      "path": "catalog/ro-RO.c7f89cc6.json",
-      "sha256": "c7f89cc6713a60ff59d833af47810db796e5de63a25f9d4fd214372bfd865aaa",
-      "videoCount": 383
+      "path": "catalog/ro-RO.9e17a4eb.json",
+      "sha256": "9e17a4eba7e38b276db9ecd23dfa3a8bcf78d756394d7fb01666005980db87d2",
+      "videoCount": 442
     },
     {
       "bytes": 141892,
@@ -871,14 +871,14 @@
       "videoCount": 101
     },
     {
-      "bytes": 156829,
+      "bytes": 157144,
       "channelCount": 8,
       "country": "RU",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "ru",
-      "path": "catalog/ru-RU.d8548e04.json",
-      "sha256": "d8548e0446ab5300f52fd392176b7a12df78d03f68906b14bacb960835a8e18b",
-      "videoCount": 425
+      "path": "catalog/ru-RU.65cbf26e.json",
+      "sha256": "65cbf26e35500f5c64dbaca1f0cd89bc82d28bbcdaf3e02ffa2c4da9a365c2e0",
+      "videoCount": 426
     },
     {
       "bytes": 59870,
@@ -911,14 +911,14 @@
       "videoCount": 120
     },
     {
-      "bytes": 37718,
+      "bytes": 37401,
       "channelCount": 3,
       "country": "AL",
       "expiresAt": "2026-12-19T18:00:10Z",
       "language": "sq",
-      "path": "catalog/sq-AL.a92b5065.json",
-      "sha256": "a92b50658626c75fa6bb6af877e773655c68bbcac7cc58aec946518569fea269",
-      "videoCount": 119
+      "path": "catalog/sq-AL.4c842bc8.json",
+      "sha256": "4c842bc8345343209ba7e92e6d53c4adfa1125d1287c0273f323c920106a412a",
+      "videoCount": 118
     },
     {
       "bytes": 120989,
@@ -926,19 +926,19 @@
       "country": "RS",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "sr",
-      "path": "catalog/sr-RS.b958d8aa.json",
-      "sha256": "b958d8aac1392afada1dbcbd7194751fd849249938d628757d59dbeb1a3e18b3",
+      "path": "catalog/sr-RS.80591058.json",
+      "sha256": "80591058d21cc62f2f323f039daacabf509b863871051ac902975cabe2338e3c",
       "videoCount": 376
     },
     {
-      "bytes": 227296,
+      "bytes": 227687,
       "channelCount": 14,
       "country": "SE",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "sv",
-      "path": "catalog/sv-SE.07332740.json",
-      "sha256": "073327406995506ca0ea0078654931887ca96f7ab1b66161c99a1038a19c1c7b",
-      "videoCount": 721
+      "path": "catalog/sv-SE.0148e7a3.json",
+      "sha256": "0148e7a3eb0082a7936281a6687eb55c475722e82025678d0a2359af0cd122a6",
+      "videoCount": 722
     },
     {
       "bytes": 12335,
@@ -981,33 +981,33 @@
       "videoCount": 361
     },
     {
-      "bytes": 170427,
+      "bytes": 170400,
       "channelCount": 7,
       "country": "TH",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "th",
-      "path": "catalog/th-TH.52d227f3.json",
-      "sha256": "52d227f30d22130f1d93fd7235da3731549e6e9b364a120f731cdb5cc08ec84a",
+      "path": "catalog/th-TH.c4ddd90b.json",
+      "sha256": "c4ddd90b9ec75f919e2eac4ccfaa6880916ce0588264c5a3e21221de4a52e4ec",
       "videoCount": 409
     },
     {
-      "bytes": 236317,
+      "bytes": 236639,
       "channelCount": 15,
       "country": "TR",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "tr",
-      "path": "catalog/tr-TR.9e96c59c.json",
-      "sha256": "9e96c59cab406bcec812b0a155fa4c70a31a14f6148473ce69a52511b0f7c3ef",
-      "videoCount": 761
+      "path": "catalog/tr-TR.21de6083.json",
+      "sha256": "21de60838a7f47a45789128bd671b807145b1e097887ceb81168baf123444aad",
+      "videoCount": 762
     },
     {
-      "bytes": 99653,
+      "bytes": 99666,
       "channelCount": 6,
       "country": "UA",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "uk",
-      "path": "catalog/uk-UA.22f95189.json",
-      "sha256": "22f95189d4796efe109bf7616507d7eff704a19897dfeec9bea6af7dfb96410f",
+      "path": "catalog/uk-UA.d0eb5ec9.json",
+      "sha256": "d0eb5ec982b04a26d1d4b270a03e4a94c036d72f2134431735a7e746ebec785b",
       "videoCount": 273
     },
     {
@@ -1041,13 +1041,13 @@
       "videoCount": 13
     },
     {
-      "bytes": 17616,
+      "bytes": 17610,
       "channelCount": 1,
       "country": "HK",
       "expiresAt": "2026-12-19T18:00:10Z",
       "language": "yue",
-      "path": "catalog/yue-HK.7bc68af3.json",
-      "sha256": "7bc68af37e00e69d84008aac55d7e1f2757670e9c91c94079cb5326f4e011aeb",
+      "path": "catalog/yue-HK.6ff85b32.json",
+      "sha256": "6ff85b32d47432b9d7f17c24d088608da83bdb0eecb4e359a5e5c43ae472a4d6",
       "videoCount": 60
     },
     {
@@ -1071,13 +1071,13 @@
       "videoCount": 105
     },
     {
-      "bytes": 167733,
+      "bytes": 167690,
       "channelCount": 9,
       "country": "TW",
       "expiresAt": "2026-12-18T11:11:32Z",
       "language": "zh",
-      "path": "catalog/zh-TW.a3e675f6.json",
-      "sha256": "a3e675f641b598d77c13b9c743c280835cfc8c9766256d628b0fa24293719c44",
+      "path": "catalog/zh-TW.1c10d16d.json",
+      "sha256": "1c10d16d2694e616e99c52d4feb7ed2a20148429f9170a94bf8873fde2eaedbb",
       "videoCount": 475
     },
     {
@@ -1091,8 +1091,8 @@
       "videoCount": 14
     }
   ],
-  "contentVersion": "f3015bff0ff9c97f",
-  "generatedAt": "2026-11-24T18:00:10Z",
+  "contentVersion": "dc59fea605852001",
+  "generatedAt": "2026-11-25T10:42:01Z",
   "minClientSchemaVersion": 1,
   "schemaVersion": 1
 }
